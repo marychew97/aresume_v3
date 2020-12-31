@@ -1,0 +1,40 @@
+.jumbotron{
+    background-color: #2B303A;
+}
+
+.jumbotron h1{
+    color: #fff;
+    font-family: 'Baloo Bhai', cursive;
+}
+
+.jumbotron p{
+    color: rgb(206, 204, 204);
+    font-family: 'Slabo 27px', serif;
+}
+
+.jumbotron .btn{
+    color: #fff;
+    font-family: 'Baloo Bhai', cursive;
+    background-color: #2B303A;
+    border: 2px solid #D64933;
+    cursor: pointer;
+}
+
+.jumbotron .btn:hover{
+    color: #2B303A;
+    font-family: 'Baloo Bhai', cursive;
+    background-color: #D64933;
+    border: 2px solid #2B303A;
+}
+
+@media (max-width: 500px){
+    #landing-photo{
+        display: none;
+    }
+}
+
+#signup-notification, #signin-notification{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+

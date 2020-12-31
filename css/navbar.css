@@ -1,0 +1,23 @@
+.navbar .navbar-nav{
+    float: right;
+}
+
+.navbar-custom{
+    background-color: #D64933!important;
+    /* box-shadow: 0px 4px 5px rgb(26, 30, 36); */
+}
+
+.navbar-custom .navbar-toggler .navbar-toggler-icon i{
+    color: #2B303A;
+    text-align: center
+}
+
+.nav-link{
+    color: #2B303A;
+    font-family: 'Baloo Bhai', cursive;
+}
+
+.nav-link:hover{
+    color: #2B303A;
+    font-family: 'Baloo Bhai', cursive;
+}
